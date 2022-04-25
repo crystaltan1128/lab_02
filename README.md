@@ -1,6 +1,8 @@
 # Comparing Geo-tagged Tweets in the United States and Europe
 Crystal Tan
+
 GEOG 458
+
 Lab 2 
 
 Twitter is used all over the world as a social platform for many, but it may also be used as means of communication and news. Given that it is useable given accessability, when making comparisons, we are mostly able to look at developed countries and how their twitter data differs. In this lab, I decided to look at geo-tagged tweets in the United States and compare it to tweets in all of Europe. I chose these two locations because when I personally think about social media usage, in this case Twitter, I associate those who are most active on the app to be from either the United States or a country in Europse. Although we are comparing a country to a continent, in this case, the results are more drastic than expacted.
